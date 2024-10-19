@@ -1,0 +1,12 @@
+
+G	java:S106"+Replace this use of System.out by a logger.(µÔ¥ù8ò›©õ©2
+]
+java:S3457"AFormat specifiers should be used instead of string concatenation.(Øô˜s8†çªõ©2
+F	java:S106"+Replace this use of System.out by a logger.(Øô˜s8¥û©õ©2
+L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ñ¬õ©2
+B
+java:S3457"%String contains no format specifiers.(½÷ö8¢±õ©2
+G	java:S106"+Replace this use of System.out by a logger.(½÷ö8¢±õ©2
+G
+java:S3457"%String contains no format specifiers.(ôæ Ğşÿÿÿÿ8õ’²õ©2
+L	java:S106"+Replace this use of System.out by a logger.(ôæ Ğşÿÿÿÿ8õ’²õ©2

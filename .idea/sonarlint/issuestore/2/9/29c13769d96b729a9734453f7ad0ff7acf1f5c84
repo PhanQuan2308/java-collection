@@ -1,0 +1,9 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ù˜á­ûÿÿÿÿ8â¿ûù©2
+C
+java:S1170"!Make this final field static too.(Ï±ÓÕûÿÿÿÿ8ä¿ûù©2
+D
+java:S1659""Declare "tail" on a separate line.(é€ï•şÿÿÿÿ8æ¿ûù©2
+L	java:S1066"+Replace this use of System.out by a logger.(¦ìîÜøÿÿÿÿ8é¿ûù©2
+L	java:S1069"+Replace this use of System.out by a logger.(â¿Òùÿÿÿÿ8é¿ûù©2
+L	java:S106<"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8é¿ûù©2
