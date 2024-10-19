@@ -33,3 +33,11 @@ Q
 !src/queue/deque/DequeExample.java,c\1\c11bb5bc8c9f2ec7c75f3ad9db976b17896e460f
 V
 &src/queue/deque/ArrayDequeExample.java,5\f\5f04bc364a9fa887f7b97671c0e0daecb1f0f359
+W
+'src/set/sortedSet/SortedSetExample.java,d\c\dcce63b0fb9775173c4d95ceefead527e9123e17
+G
+src/set/SetExample.java,c\b\cbc30b306a69d6d2c2d1941a1c9f24a77bc6fbf4
+]
+-src/set/sortedSet/treeSet/TreeSetExample.java,8\d\8ddff6e4aaac416e7153ee5efc299f89907e8a04
+v
+Fsrc/set/sortedSet/hashSetAndLinkedHashSet/HashSetAndLinkedHashSet.java,5\0\50a50ce29a782e290a2b56a6fa4879e7271e804e
