@@ -6,7 +6,7 @@ package list.arrayList;
 // + Có tất cả các đặc điểm của List do nó implement List.
 // + Nhanh nhờ bất đồng bộ và có chỉ mục.
 // + Ứng dụng thực tế: Lưu trữ danh sách giỏ hàng và điểm số sinh viên.
-
+// + Nen dung de get, khong nen dung de add va delete
 import java.util.ArrayList;
 
 public class ArrayListExample {

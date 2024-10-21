@@ -41,3 +41,13 @@ G
 -src/set/sortedSet/treeSet/TreeSetExample.java,8\d\8ddff6e4aaac416e7153ee5efc299f89907e8a04
 v
 Fsrc/set/sortedSet/hashSetAndLinkedHashSet/HashSetAndLinkedHashSet.java,5\0\50a50ce29a782e290a2b56a6fa4879e7271e804e
+G
+src/map/MapExample.java,1\9\19e9e47de22c344388250f765f8e2c333215f802
+W
+'src/map/hashTable/HashTableExample.java,9\f\9ffff2893fc556e24f4e0e5d89eb39af2f6d5f25
+S
+#src/map/hashMap/HashMapExample.java,a\f\afc21d6704db59aa01d2ba291664ec14b2024639
+Y
+)src/map/hashMap/LinkedHashMapExample.java,a\e\ae54f1c21d3f4b83e6a2ad05f6931d8c0c1614e2
+Z
+*src/map/sortedMap/SortedMapAndTreeMap.java,a\7\a7bc21777789dde7bdd99be86157c976a5b3463b

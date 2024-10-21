@@ -1,0 +1,5 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾áÚˆ
+Q
+java:S2864"4Iterate over the "entrySet" instead of the "keySet".(¾´¤Å8ŸàÕŸª2
+G	java:S106"+Replace this use of System.out by a logger.(ÀÙü8¯ÕŸª2
